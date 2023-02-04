@@ -22,9 +22,9 @@ public class FiloniMatteoClass {
 	
 	public int FiloniMet(int s, int f) {
 		int r = 1;
-		/*for (int i = s; i <= f; i++)	//la i parte dal primo indice di valroe fornito
+		for (int i = s; i <= f; i++)	//la i parte dal primo indice di valroe fornito
 										//e arriva fino all'ultimo valore fornito
-			r *= i;	*/					//moltiplica i valori da 's' a 'f' e li somma in 'r'
+			r *= i;						//moltiplica i valori da 's' a 'f' e li somma in 'r'
 		return r;
 	}
 /**
